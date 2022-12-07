@@ -16,7 +16,7 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "for github",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
@@ -97,7 +97,7 @@
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : "",
+        "description" : "for github",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
